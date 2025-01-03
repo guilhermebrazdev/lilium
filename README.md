@@ -9,7 +9,7 @@ This project consists of a backend API and a frontend. To run the application lo
    ```bash
    cd lilium_api/
    ```
-3. activae the Python virtual environment:
+3. activate the Python virtual environment:
    Windows -
    ```bash
    source venv/Scripts/activate
